@@ -1,5 +1,7 @@
 # CNN for CIFAR-10: Hyperparameter Tuning
 
+### Can a simple CNN rival state-of-the-art models on CIFAR-10? This project shows how far careful hyperparameter tuning can go
+
 ## Project Overview
 
 This project investigates the impact of hyperparameter tuning on the performance of a Convolutional Neural Network (CNN) for classifying images in the CIFAR-10 dataset. While pretrained models like ResNet achieve high accuracy, this study uses a custom simple CNN as a baseline, optimizing its performance through systematic hyperparameter adjustments.
