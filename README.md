@@ -4,6 +4,8 @@
 
 This project investigates the impact of hyperparameter tuning on the performance of a Convolutional Neural Network (CNN) for classifying images in the CIFAR-10 dataset. While pretrained models like ResNet achieve high accuracy, this study uses a custom simple CNN as a baseline, optimizing its performance through systematic hyperparameter adjustments.
 
+### _Key Stack: Python · TensorFlow/Keras · CNN · CIFAR-10 · Hyperparameter Tuning · Batch Normalization_
+
 ### Key Features:
 - Focus on tuning epochs, batch size, kernel size, number of layers, and filters.
 - Implementation of batch normalization for improved accuracy.
